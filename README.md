@@ -1,6 +1,6 @@
 This project aim to analyze diabetes data and address some important business problems/questions.
 
-This project is focused on Exploratory Data Analysis and Model Training using Python.
+This project is focused on Exploratory Data Analysis and Model Training using Python. The project train the data using Logistic Regression Model and Rondom Forest model  and compare the results.
 A notebook is shared for the analysis.
 
 Problem Statement:
