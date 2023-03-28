@@ -20,4 +20,8 @@ BMI: Body mass index (weight in kg/(height in m)^2)
 DiabetesPedigreeFunction: A function that scores likelihood of diabetes based on family history
 Age: Age in years
 Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic)
-Steps for Pima diabetes Date Analytics:Import the nesessary libraries ,Dataset explorations, checking the missing values in the date frame. Screening of variables, Study the  relationship of variable. The project train the data using Logistic Regression Model and Rondom Forest model  and compare the results.
+
+
+Steps for Pima diabetes Date Analytics:
+
+Import the nesessary libraries ,Dataset explorations, checking the missing values in the date frame. Screening of variables, Study the  relationship of variable. The project train the data using Logistic Regression Model and Rondom Forest model  and compare the results.
